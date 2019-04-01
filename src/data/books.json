@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Web Scalability for Startup Engineers",
+    "url": "https://www.amazon.com/dp/0071843655/",
+    "image": "images/web-scalability-for-startup-engineers.png",
+    "progress": {
+      "current": 361,
+      "total": 361
+    }
+  },
+  {
+    "title": "How Money Works",
+    "url": "https://www.amazon.co.uk/How-Money-Works-Visually-Explained/dp/024122599X/",
+    "image": "images/how-money-works.png",
+    "progress": {
+      "current": 56,
+      "total": 414
+    }
+  },
+  {
+    "title": "The Alchemist",
+    "url": "https://www.amazon.co.uk/Alchemist-Paulo-Coelho/dp/8172234988",
+    "image": "images/the-alchemist.jpeg",
+    "progress": {
+      "current": 195,
+      "total": 195
+    }
+  },
+  {
+    "title": "Outliers",
+    "url": "https://www.amazon.in/dp/B002RI9PKO/",
+    "image": "images/outliers.png",
+    "progress": {
+      "current": 285,
+      "total": 285
+    }
+  }
+]
