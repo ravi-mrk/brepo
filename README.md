@@ -1,4 +1,4 @@
-# vivekpoddar.com
+# mrkops.com
 
 Code powering my personal blog.
 
