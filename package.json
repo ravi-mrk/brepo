@@ -1,7 +1,7 @@
 {
   "name": "the-devops-guy",
   "private": true,
-  "description": "The DevOps Guy",
+  "description": "MasteRing Kubernetes, Operations and Security",
   "version": "1.0.0",
   "author": "Ravi Kiran Mahankali <ravikm.ops@gmail.com>",
   "bugs": {
