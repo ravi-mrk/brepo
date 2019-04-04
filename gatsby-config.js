@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'The DevOps guy',
+    title: 'MasteRing Kubernetes, Operations and Security',
     author: 'Ravi Kiran Mahankali',
     description: 'Personal blog by Ravi Kiran Mahankali.',
     siteUrl: 'https://mrkops.com',
