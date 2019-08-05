@@ -42,7 +42,7 @@ class Bio extends React.Component {
           />
           <p style={{ marginBottom: 0 }}>
             Written by <strong>Ravi Kiran Mahankali</strong> who lives and works in
-            Cambridge, building useful things.{' '}
+            Cambridge, building useful things working in the DevOps roles.{' '}
           </p>
         </div>
         <IconListContainer>
