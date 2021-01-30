@@ -6,4 +6,4 @@ Code powering my personal blog.
 
 `gatsby develop`
 
-Edit from gitlab test push
+Edit from gitlab test push 2
